@@ -4,3 +4,6 @@
 @Coumn
 private int firstName;
 private int lastName;
+
+private int city;
+private int streetName;
