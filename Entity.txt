@@ -1,0 +1,6 @@
+@Entity
+@Data
+
+@Coumn
+private int firstName;
+private int lastName;
